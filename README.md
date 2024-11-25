@@ -1,0 +1,1 @@
+Dynamic File Manager: A streamlined web application for managing files, allowing users to rename files effortlessly through an intuitive interface. Built with modern technologies, it ensures secure file handling and enhances productivity with a user-friendly design.
